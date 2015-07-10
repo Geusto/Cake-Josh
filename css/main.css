@@ -1,7 +1,29 @@
+body{
+font-family: 'Lato', sans-serif !important;
+}
+a{
+color: #7AE5E9;}
+
 img{
- max-width: 100%;
+ max-width: 90%;
 }
 
 .nofloat{
 float: none !important;
+}
+
+.pacifico{
+font-family: 'Pacifico', cursive;
+}
+.big{
+font-size: 4em;
+}
+.colortil {
+color: #CB3234;
+}
+
+.arriba{
+margin-top: 10px;}
+.derecha{
+margin-right: 1em;
 }

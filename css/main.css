@@ -27,3 +27,23 @@ margin-top: 10px;}
 .derecha{
 margin-right: 1em;
 }
+.nolist li {
+    list-style-type: none;
+}
+.nolist{
+margin: 0px;
+padding: 0px;
+}
+
+.gris {
+    background-color: #eee;
+}
+.largo{
+padding: 5px, 10px;
+}
+
+.inlinebl {
+    float: none !important;
+    display: inline-block !important;
+    margin-right: -4px;
+}
